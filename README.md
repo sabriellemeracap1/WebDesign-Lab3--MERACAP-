@@ -1,6 +1,6 @@
 # Screenshot
 
-!\[Homepage](screenshots/homepage-mockup.png)
+![Homepage](screenshots/homepage-mockup.png)
 
 # What color choices did you make and why?
 
