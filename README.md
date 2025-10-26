@@ -1,4 +1,4 @@
-# Screenshot
+# Screenshot of the redesigned homepage
 
 ![Homepage](screenshots/homepage-mockup.png)
 
